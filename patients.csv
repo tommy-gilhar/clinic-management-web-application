@@ -1,0 +1,11 @@
+﻿patientID,Full_Name,Age,Gender,Drug_allergy,Diabetes_type,DOC_ID
+1,Daphne Glover,3,F,"Bactrim, Truxazole",type 1,21
+2,Kaleigh Jimenez,16,M,nan,type 2,22
+3,Angeline Terrell,22,F,Septra ,type 1,21
+4,Gunner Blanchard,65,M,nan,type 1,23
+5,Landin Livingston,34,F,nan,type 2,22
+6,Jade Rich,21,M,"Fycompa, Basaglar",type 2,22
+7,Jaydan Dodson,76,M,nan,type 2,23
+8,Jonas Mclaughlin,32,M,nan,type 1,21
+9,Carly Cain,45,F,Glipizide,type 2,23
+10,Matthew Harrison,60,M,nan,type 2,22
