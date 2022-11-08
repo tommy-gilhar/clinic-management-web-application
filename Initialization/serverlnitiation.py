@@ -8,7 +8,7 @@ from sqlalchemy import create_engine
 import mysql.connector
 
 user = "root"
-password = "8072362tommy"
+password = 
 ip = "127.0.0.1"
 port = 3306
 host = "localhost"
