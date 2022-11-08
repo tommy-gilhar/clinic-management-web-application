@@ -152,7 +152,7 @@ def add_fks(table):
 
 def main():
     # form a connection to server
-    connect2server(usr="root", passwd="8072362tommy", hst="localhost", prt=3306)
+    connect2server(usr="root", passwd="", hst="localhost", prt=3306)
     # initiate a database
     init_db("emr")
     # read csv file into table object
